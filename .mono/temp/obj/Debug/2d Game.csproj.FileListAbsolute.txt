@@ -1,0 +1,16 @@
+C:\Users\ejej\Desktop\2DGame\.mono\temp\bin\Debug\2d Game.dll
+C:\Users\ejej\Desktop\2DGame\.mono\temp\bin\Debug\2d Game.pdb
+C:\Users\ejej\Desktop\2DGame\.mono\temp\obj\Debug\2d Game.csprojAssemblyReference.cache
+C:\Users\ejej\Desktop\2DGame\.mono\temp\obj\Debug\2d Game.AssemblyInfoInputs.cache
+C:\Users\ejej\Desktop\2DGame\.mono\temp\obj\Debug\2d Game.AssemblyInfo.cs
+C:\Users\ejej\Desktop\2DGame\.mono\temp\obj\Debug\2d Game.csproj.CoreCompileInputs.cache
+C:\Users\ejej\Desktop\2DGame\.mono\temp\obj\Debug\2d Game.dll
+C:\Users\ejej\Desktop\2DGame\.mono\temp\obj\Debug\2d Game.pdb
+C:\Users\ejej\Desktop\Git\2D_game\.mono\temp\bin\Debug\2d Game.dll
+C:\Users\ejej\Desktop\Git\2D_game\.mono\temp\bin\Debug\2d Game.pdb
+C:\Users\ejej\Desktop\Git\2D_game\.mono\temp\obj\Debug\2d Game.csprojAssemblyReference.cache
+C:\Users\ejej\Desktop\Git\2D_game\.mono\temp\obj\Debug\2d Game.AssemblyInfoInputs.cache
+C:\Users\ejej\Desktop\Git\2D_game\.mono\temp\obj\Debug\2d Game.AssemblyInfo.cs
+C:\Users\ejej\Desktop\Git\2D_game\.mono\temp\obj\Debug\2d Game.csproj.CoreCompileInputs.cache
+C:\Users\ejej\Desktop\Git\2D_game\.mono\temp\obj\Debug\2d Game.dll
+C:\Users\ejej\Desktop\Git\2D_game\.mono\temp\obj\Debug\2d Game.pdb

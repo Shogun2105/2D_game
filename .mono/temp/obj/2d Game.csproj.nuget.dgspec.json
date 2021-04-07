@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ejej\\Desktop\\Git\\2D_game\\2d Game.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ejej\\Desktop\\Git\\2D_game\\2d Game.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ejej\\Desktop\\Git\\2D_game\\2d Game.csproj",
+        "projectName": "2d Game",
+        "projectPath": "C:\\Users\\ejej\\Desktop\\Git\\2D_game\\2d Game.csproj",
+        "packagesPath": "C:\\Users\\ejej\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ejej\\Desktop\\Git\\2D_game\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ejej\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

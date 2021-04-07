@@ -1,0 +1,38 @@
+[gd_scene load_steps=10 format=2]
+
+[ext_resource path="res://Sprites/sunny-bunny/PNG/layers/run/_0000_Layer-1.png" type="Texture" id=1]
+[ext_resource path="res://Sprites/sunny-bunny/PNG/layers/run/_0002_Layer-3.png" type="Texture" id=2]
+[ext_resource path="res://Sprites/sunny-bunny/PNG/layers/run/_0005_Layer-6.png" type="Texture" id=3]
+[ext_resource path="res://Sprites/sunny-bunny/PNG/layers/run/_0003_Layer-4.png" type="Texture" id=4]
+[ext_resource path="res://Sprites/sunny-bunny/PNG/layers/run/_0004_Layer-5.png" type="Texture" id=5]
+[ext_resource path="res://Sprites/sunny-bunny/PNG/layers/run/_0001_Layer-2.png" type="Texture" id=6]
+[ext_resource path="res://Scripts/Player.cs" type="Script" id=7]
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 1 ) ],
+"loop": true,
+"name": "Idle",
+"speed": 10.0
+}, {
+"frames": [ ExtResource( 6 ), ExtResource( 2 ), ExtResource( 4 ), ExtResource( 5 ), ExtResource( 3 ) ],
+"loop": true,
+"name": "Walk",
+"speed": 5.0
+} ]
+
+[sub_resource type="RectangleShape2D" id=2]
+extents = Vector2( 30.9493, 59.6292 )
+
+[node name="Player" type="KinematicBody2D"]
+script = ExtResource( 7 )
+
+[node name="Animation" type="AnimatedSprite" parent="."]
+position = Vector2( 361.121, 190.668 )
+scale = Vector2( 3, 3 )
+frames = SubResource( 1 )
+animation = "Walk"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( 361.049, 200.339 )
+shape = SubResource( 2 )
